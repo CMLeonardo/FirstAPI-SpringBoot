@@ -1,5 +1,5 @@
-# Projetos de Treino Desenvolvimento Web
-Aqui esta minha primeira API desenvolvida em Spring Boot utilizando as dependências do devtools, jpa e h2.:sunglasses: \
+# FirstAPI - Spring Boot
+Aqui esta minha primeira API desenvolvida em Spring Boot utilizando as dependências do devtools, jpa e h2. :sunglasses: \
 A API consiste no registro local de alunos e leitura do banco de dados. Bem básica, porém com uma base importante para o entendimento do Spring e API.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
